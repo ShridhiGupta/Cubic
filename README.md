@@ -125,10 +125,4 @@ Contributions are welcome.
 
 ---
 
-## Authors
-
-Developed by Shridhi Gupta.
-
----
-
 Built to make learning and solving the Rubik's Cube more interactive, accessible, and enjoyable.
