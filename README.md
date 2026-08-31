@@ -114,8 +114,7 @@ http://localhost:3000
 
 Contributions are welcome.
 
-1. Fork the repository.
-2. Create a ne
+1. Fork the repository
 ---
 
 Built to make learning and solving the Rubik's Cube more interactive, accessible, and enjoyable.
