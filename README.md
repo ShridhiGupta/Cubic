@@ -117,9 +117,7 @@ Contributions are welcome.
 1. Fork the repository.
 2. Create a new branch.
 3. Commit your changes.
-4. Push to your branch.
-5. Open a Pull Request.
-
+4. Push to y
 ---
 
 Built to make learning and solving the Rubik's Cube more interactive, accessible, and enjoyable.
