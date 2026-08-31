@@ -112,7 +112,6 @@ http://localhost:3000
 
 ## Contributing
 
-Contributions 
 ---
 
 Built to make learning and solving the Rubik's Cube more interactive, accessible, and enjoyable.
