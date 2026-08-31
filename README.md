@@ -21,19 +21,16 @@ Built with modern web technologies, Cubic combines an intuitive user interface w
 ## Tech Stack
 
 ### Frontend
-
 * Next.js
 * TypeScript
 * React.js
 * CSS
 
 ### Backend
-
 * Node.js
 * Express.js
 
 ### Database
-
 * MongoDB
 
 ---
