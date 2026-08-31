@@ -109,8 +109,6 @@ http://localhost:3000
 * Leaderboards and achievements
 
 ---
-
-#
 ---
 
 Built to make learning and solving the Rubik's Cube more interactive, accessible, and enjoyable.
