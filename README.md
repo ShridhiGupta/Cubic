@@ -116,8 +116,7 @@ Contributions are welcome.
 
 1. Fork the repository.
 2. Create a new branch.
-3. Commit your changes.
-4. Push to y
+3. Commit your chan
 ---
 
 Built to make learning and solving the Rubik's Cube more interactive, accessible, and enjoyable.
