@@ -115,8 +115,7 @@ http://localhost:3000
 Contributions are welcome.
 
 1. Fork the repository.
-2. Create a new branch.
-3. Commit your chan
+2. Create a ne
 ---
 
 Built to make learning and solving the Rubik's Cube more interactive, accessible, and enjoyable.
